@@ -1,6 +1,10 @@
 # artificial-intelligence-art
 Artificial Intelligence Art - Lots of AI Artworks from AI Image Generators
 
+can search in this repo with / to find useful prompts to use when prompting in ai image generators
+
+
+
 [text](https://www.ebank.nz/aiartgenerator?category=text)
 [York](https://www.ebank.nz/aiartgenerator?category=York)
 [render](https://www.ebank.nz/aiartgenerator?category=render)
