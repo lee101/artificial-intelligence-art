@@ -3,6 +3,9 @@ Artificial Intelligence Art - Lots of AI Artworks from AI Image Generators
 
 can search in this repo with / to find useful prompts to use when prompting in ai image generators
 
+This contains a large amount of text prompts that people have been using to design AI Images on eBank.nz AI Image Generator.
+
+This dataset contains around 200k text to image prompts used.
 
 
 [text](https://www.ebank.nz/aiartgenerator?category=text)
